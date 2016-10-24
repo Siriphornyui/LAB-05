@@ -102,8 +102,8 @@ Console.WriteLine("{0,0}",1 ); ใน { , } คือ การกำหนด r
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
   
-    <img src= "https://github.com/Siriphornyui/LAB-05/blob/master/57.jpg">
-
+   <img src= "https://github.com/Siriphornyui/LAB-05/blob/master/57.jpg ">
+    
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
 ```csharp
@@ -127,3 +127,5 @@ Console.WriteLine("{0,0}",1 ); ใน { , } คือ การกำหนด r
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
+output
+<img src="https://github.com/Siriphornyui/LAB-05/blob/master/58.jpg">
