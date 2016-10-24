@@ -81,7 +81,7 @@ Console.WriteLine("{0,0}",1 ); ใน { , } คือ การกำหนด r
   4.2). รันโปรแกรม และบันทึกผลที่ได้
 
 
-<img src= " https://github.com/Siriphornyui/LAB-05/blob/master/55.jpg">
+<img src="https://github.com/Siriphornyui/LAB-05/blob/master/55.jpg" >
 
 
 
@@ -102,7 +102,7 @@ Console.WriteLine("{0,0}",1 ); ใน { , } คือ การกำหนด r
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
   
-    <img src= "https://github.com/Siriphornyui/LAB-05/blob/master/57.jpg ">
+    <img src= "https://github.com/Siriphornyui/LAB-05/blob/master/57.jpg">
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
