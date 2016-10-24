@@ -128,4 +128,6 @@ Console.WriteLine("{0,0}",1 ); ใน { , } คือ การกำหนด r
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
 output
+
+
 <img src="https://github.com/Siriphornyui/LAB-05/blob/master/58.jpg">
