@@ -16,25 +16,23 @@
 
   2.2). รันโปรแกรม และบันทึกผลที่ได้
 <hr>
-<hr>
-<hr>
-<hr>
+<img src= "https://github.com/Siriphornyui/LAB-05/blob/master/51.jpg ">
 <hr>
  2.3). แก้โปรแกรมตามรูปด้านล่างนี้
  
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic2.png)
 
  2.4). รันโปรแกรม และบันทึกผลที่ได้
-
+ 
+<img src= "https://github.com/Siriphornyui/LAB-05/blob/master/52.jpg ">
 
 
 
 
 ###คำถาม 5.1 เครื่องหมาย { }  ในคำสั่ง Console.WriteLine() มีลักษณะการใช้งานอย่างไร
 <hr>
-<hr>
-<hr>
-<hr>
+ ตำแหน่งที่เราจะแทนด้วยค่าของ object ซึ่งจะเริ่มจาก 0, 1, 2 ไปเรื่อยๆ
+
 <hr>
 ###คำถาม 5.2  ถ้ามีการใช้ตัวเลขใน { } ที่กระโดด เช่น {0} {2} {3} จะใช้งานได้หรือไม่ อย่างไร จงอธิบาย
 <hr>
@@ -49,9 +47,7 @@
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
 <hr>
-<hr>
-<hr>
-<hr>
+<img src= "https://github.com/Siriphornyui/LAB-05/blob/master/53.jpg ">
 <hr>
 
 3). ทดลองเรื่องการกำหนดความกว้างของอาร์กิวเมนต์
@@ -62,9 +58,7 @@
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
 <hr>
-<hr>
-<hr>
-<hr>
+<img src= "https://github.com/Siriphornyui/LAB-05/blob/master/54.jpg ">
 <hr>
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
@@ -82,9 +76,7 @@
 
   4.2). รันโปรแกรม และบันทึกผลที่ได้
 <hr>
-<hr>
-<hr>
-<hr>
+<img src= " https://github.com/Siriphornyui/LAB-05/blob/master/55.jpg">
 <hr>
 
 5). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของอาร์กิวเมนต์
@@ -93,6 +85,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic6.png)
 
   5.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+  <img src= "https://github.com/Siriphornyui/LAB-05/blob/master/56.jpg ">
 
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -100,6 +94,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic7.png)
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+    <img src= "https://github.com/Siriphornyui/LAB-05/blob/master/57.jpg ">
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
